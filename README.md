@@ -666,7 +666,7 @@ Input => Convolution => ReLU => Convolution => ReLU => Pooling => Convolution =>
 
 
 ```python
-%% html
+%%html
 <img src="vgg_arch.png">
 ```
 
