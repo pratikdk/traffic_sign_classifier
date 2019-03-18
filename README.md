@@ -666,8 +666,8 @@ Input => Convolution => ReLU => Convolution => ReLU => Pooling => Convolution =>
 
 
 ```python
-from IPython.display import Image
-Image(filename='vgg_arch.png', embed=True) 
+%% html
+<img src="vgg_arch.png">
 ```
 
 
