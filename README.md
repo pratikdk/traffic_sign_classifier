@@ -669,11 +669,6 @@ Input => Convolution => ReLU => Convolution => ReLU => Pooling => Convolution =>
 
 
 
-
-![png](output_75_0.png)
-
-
-
 #### Summary of VGG Net
 The VGG network architecture was introduced by Simonyan and Zisserman in their 2014 paper, Very Deep Convolutional Networks for Large Scale Image Recognition.
 
