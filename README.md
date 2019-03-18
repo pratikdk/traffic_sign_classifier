@@ -665,10 +665,7 @@ This ConvNet follows these steps:
 Input => Convolution => ReLU => Convolution => ReLU => Pooling => Convolution => ReLU => Convolution => ReLU => Pooling => Convolution => ReLU => Convolution => ReLU => Pooling => FullyConnected => ReLU => FullyConnected => ReLU => FullyConnected
 
 
-```python
-%%html
 <img src="vgg_arch.png">
-```
 
 
 
